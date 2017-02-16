@@ -1,9 +1,9 @@
 using Nancy;
 using System.Collections.Generic;
-using Namespace.Objects;
+using NumbersToWords.Objects;
 
 
-namespace Namespace
+namespace NumbersToWords
 {
     public class HomeModule : NancyModule
     {
